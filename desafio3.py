@@ -1,7 +1,6 @@
 from random import randint
 
 faturamento_diario = []
-semana = ['Segunda','Terça','Quarta','Quinta','Sexta']
 for i in range(30):
     val = randint(40,100)
     faturamento_diario.append(val)
